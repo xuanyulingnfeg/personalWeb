@@ -1,0 +1,9 @@
+<script setup>
+import Games from "../components/Games.vue";
+</script>
+
+<template>
+  <main>
+    <Games />
+  </main>
+</template>
